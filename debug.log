@@ -1,0 +1,7 @@
+[0910/154831.304:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0219/074935.297:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0219/074935.297:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0422/125535.599:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0422/125535.600:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0726/070222.174:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[1111/145254.722:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/ant-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="Lib/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="Lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="Lib/aspectj-1.8.8-src.jar"/>
+	<classpathentry kind="lib" path="Lib/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="Lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="Lib/client-combined-3.5.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="Lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="Lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="Lib/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="Lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="Lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="Lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="Lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Lib/httpclient-cache-4.3.3.jar"/>
+	<classpathentry kind="lib" path="Lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="Lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="Lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="Lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="Lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="Lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="Lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="Lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="Lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="Lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="Lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="Lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="Lib/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="Lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="Lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-5.1.36.jar"/>
+	<classpathentry kind="lib" path="Lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="Lib/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="Lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="Lib/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="Lib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="Lib/org.eclipse.core.resources-3.7.100.jar"/>
+	<classpathentry kind="lib" path="Lib/phanbedder-1.9.7-1.0.0.jar"/>
+	<classpathentry kind="lib" path="Lib/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="Lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="Lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="Lib/quartz-2.1.5.jar"/>
+	<classpathentry kind="lib" path="Lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/saxon-dom-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="Lib/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="Lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Lib/servlet.jar"/>
+	<classpathentry kind="lib" path="Lib/slf4j-api-1.7.16.jar"/>
+	<classpathentry kind="lib" path="Lib/slf4j-log4j12-1.7.16.jar"/>
+	<classpathentry kind="lib" path="Lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="Lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="Lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="Lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="Lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="Lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="Lib/extentreports-3.1.3.jar"/>
+	<classpathentry kind="lib" path="Lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="Lib/bson-3.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Lib/saxon-9.1.0.8.jar"/>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/CRMRepository"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

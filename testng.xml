@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+    <class name="pages.BorrowersPage"/>
+    <class name="pages.ConsentPage"/>
+    	<!-- <parameter name = "lenderloannumber" value = value/> -->
+    <class name="pages.CreditPage"/>
+     <class name="pages.EmploymentPage"/>
+      <class name="pages.IncomePage"/>
+      <class name="pages.CRMAssetsPage"/>
+      <class name="pages.PurposeAndPropertyPage"/>
+      <class name="pages.LoanSourcePage"/>
+       <class name="pages.CRMLoanTermsPage"/>
+       <class name="pages.PricingPage"/>
+       <class name="pages.DeclarationsPage"/>
+       <class name="pages.DemographicPage"/>
+       <class name="pages.AutomatedUnderwritigPage"/>
+        <class name="pages.CompliancePage"/>
+        <class name="pages.DocumentPackagePage"/>
+     
+    
+  <!--     <class name="pages.FundingInformationPage"/>
+      <class name="pages.LosPostLoanClosingAdvisor"/>
+      <class name="pages.CRMThirdPartyDetailsPage"/>
+      <class name="pages.LosPostClosingFannieMaeUCD"/>
+      <class name="pages.LOSLoanTermsPage"/>
+      <class name="pages.LiabilityPage"/>
+      <class name="pages.LosPostClosingBrokerFeeReconciliation"/>
+      <class name="pages.LiabilityVerificationPage"/>
+      <class name="pages.LoanConditionsPage"/>
+      <class name="pages.LOSLoanPricingPage"/>
+      <class name="pages.ThirdPartyDetailsPage"/>
+      <class name="pages.LosPostClosingInsuringPage"/>
+      <class name="pages.crmRatiosPage"/>
+      <class name="pages.LosPostClosingQCExceptionsPage"/>
+      <class name="pages.LosPostingPurchaseAdvice"/>
+      <class name="pages.REOPage"/>
+      <class name="pages.ChecklistsPage"/>
+      <class name="pages.LosPostClosingHMDA"/>
+      <class name="pages.LoanStauspage1"/>
+      <class name="pages.DecisioningPage"/>
+      <class name="pages.LosPostClosingLenderCostsPage"/>
+      <class name="pages.LosPostClosingSellSidePage"/>
+      <class name="pages.LosPropertyIsuranceInfopage"/>
+      <class name="pages.IncomeVerificationPage"/>
+      <class name="pages.LOSBorrowerconsentinfo"/>
+      <class name="pages.FundingInfoPage1"/>
+      <class name="pages.LOSFeeAndClosingCostsPage"/>
+      <class name="pages.LosPostClosingFinalActionPage"/>
+      <class name="pages.AutomatedUnderwritigPage"/>
+      <class name="pages.MIQuotePage"/>
+      <class name="pages.LOSDetailsOfTransactionPage"/>
+      <class name="pages.AssetVerficationPage"/>
+      <class name="pages.LoanQualityAdvisorPage"/>
+      <class name="pages.ComplianceAuditPage"/>
+      <class name="pages.LosPostClosingAuditExceptionsPage"/>
+      <class name="pages.LoanFoldersPage"/>
+      <class name="pages.ShippingPage"/>
+      <class name="pages.MiscellaneousPage"/>
+      <class name="pages.EscrowForCompletionPage"/>
+      <class name="pages.FundingInformationNewPage"/>
+      <class name="pages.ScheduleLoanForClosingpage"/>
+      <class name="pages.LegalDescriptionPage"/>
+      <class name="pages.EmploymentVerificationPage"/>
+      <class name="pages.CRmToolsPage"/>
+      <class name="pages.LOSUserAssaignments"/>
+      <class name="pages.LOSHousingExpensePage"/>
+      <class name="pages.EscrowInfoPage"/>
+      <class name="pages.LOSProposedHousingExpensePage"/>
+      <class name="pages.ClosingCostDetailsPage"/>
+      <class name="pages.FHAPage"/>
+      <class name="pages.LOSLoanFolders"/>
+      <class name="pages.LOSMortgageInsurancePage"/>
+      <class name="pages.LOSAssetsPage"/>
+      <class name="pages.VendorServicesPage"/> -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
